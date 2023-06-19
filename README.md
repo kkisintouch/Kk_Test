@@ -1,2 +1,4 @@
 # Kk_Test
-Test repository for code practise 
+#Test repository for code practise 
+p = krishan
+print(p)
